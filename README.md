@@ -1,6 +1,8 @@
 # AP-Computer-Science-Principles-Projects
 Final Projects for AP Computer Science Principles (2019-2020) made with the Scratch programming language.
 
+Scratch Account: https://scratch.mit.edu/users/eguan2004/
+
 # 1. Protect the Cat 12/6/2019:
    Play as the Cat using the W key to move the Cat and the cursor to control the Cat's direction. Press the Space Bar to launch a projectile in the 
    direction of the cursor at the incoming Dogs. Take down as many Dogs as you can before they reach the Cat!
